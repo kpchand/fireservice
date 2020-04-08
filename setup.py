@@ -7,7 +7,7 @@ with open('README.md', 'r') as fh:
 
 setuptools.setup(
     name='fireservice', 
-    version='0.0.1',
+    version='0.0.2',
     author='Kaustubh Pratap Chand',
     author_email='contact@kausalitylabs.com',
     description='FireService is a simple library to create Python Services',
