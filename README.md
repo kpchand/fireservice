@@ -109,7 +109,7 @@ We can also create custom fields. Suppose our application takes user ID with the
 
 ```python
 class IDField(StringField):
-    """A `Field` which takes input in the pattern xxx-yyy-zzz.
+    """A Field which takes input in the pattern xxx-yyy-zzz.
     """
     def default_validator(self, value):
         # Use StringField validator to validate str
