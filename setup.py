@@ -9,7 +9,7 @@ setuptools.setup(
     name='fireservice', 
     version='0.0.1',
     author='Kaustubh Pratap Chand',
-    author_email='kpchand77@gmail.com',
+    author_email='contact@kausalitylabs.com',
     description='FireService is a simple library to create Python Services',
     long_description=long_description,
     long_description_content_type='text/markdown',
