@@ -139,6 +139,6 @@ s.call({
 FireService was inspired from [django-service-objects](https://github.com/mixxorz/django-service-objects) but designed to work with any framework and as close to raw Python as possible. 
 
 
-## Why is it called FireService
+## Why is it called FireService?
 
 When you invoke `call()` it starts `fire()` which in turn starts the `FireService`.
