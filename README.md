@@ -7,7 +7,7 @@ FireService is a simple library to create Python Services.
 * Immutable fields.
 * Execution callbacks.
 * Less biolerplate.
-* Works with native Python objects whenever possible.
+* Works with native Python objects wherever possible.
 * Extensible with custom field types and validators.
 * Provides an elegant superstructure for classes which work on any input.
 
@@ -144,4 +144,4 @@ FireService was inspired from [django-service-objects](https://github.com/mixxor
 
 ## Why is it called FireService
 
-When you invoke call() it starts fire() which in turn starts the FireService.
+When you invoke `call()` it starts `fire()` which in turn starts the `FireService`.
