@@ -13,13 +13,9 @@ FireService is a simple library to create Python Services.
 
 ## Installation
 
-To install FireService from repository using pipenv, run: 
+To install FireService using pip, run: ```pip install fireservice```
 
-```pipenv install -e http://example.com```
-
-To install FireService from repository using pip, run:
-
-```pip install http://example.com```
+To install FireService using pipenv, run: ```pipenv install fireservice```
 
 
 ## Basic Usage
@@ -102,7 +98,8 @@ Some reading resources :
 
 ## Docs
 
-View the Docs at: http://example.com
+View the Docs at: https://kpchand.github.io/fireservice/.
+If redirection fails, then directly go [here](https://kpchand.github.io/fireservice/fireservice/index.html).
 
 
 ## Extending FireService
